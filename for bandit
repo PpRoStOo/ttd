@@ -1,0 +1,205 @@
+wait(0.07)
+local IMfuckedU = "lO"
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Daily",
+            [3] = "Summon10Units"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Daily",
+            [3] = "Play60Mins"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Daily",
+            [3] = "Play5Matches"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Daily",
+            [3] = "Place25Units"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Daily",
+            [3] = "Summon1EpicUnit"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Daily",
+            [3] = "AFKFarm120Mins"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Daily",
+            [3] = "Win3Matches"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.075)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Daily",
+            [3] = "Kill1000Toilets"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Weekly",
+            [3] = "Win10Matches"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Weekly",
+            [3] = "Kill10000Toilets"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Weekly",
+            [3] = "Play20Matches"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Weekly",
+            [3] = "Summon40Units"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Weekly",
+            [3] = "AFKFarm360Mins"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Weekly",
+            [3] = "Summon1LegendaryUnit"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Weekly",
+            [3] = "Play180Mins"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = IMfuckedU,
+            [2] = "Weekly",
+            [3] = "Place100Units"
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "_\231",
+            [2] = "\187Lm\13\139\156Cc\169\243\27\18A\203zu",
+            [3] = game:GetService("Players"):WaitForChild("shtinnikita2015")
+        }
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
