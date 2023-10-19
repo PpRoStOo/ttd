@@ -1,5 +1,5 @@
 wait(0.07)
-local IMfuckedU = "lO"
+local IMfuckedU = "\182\190"
 local args = {
     [1] = {
         [1] = {
