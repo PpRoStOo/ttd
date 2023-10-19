@@ -203,5 +203,3 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
-
-}
