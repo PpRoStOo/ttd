@@ -195,9 +195,9 @@ wait(0.07)
 local args = {
     [1] = {
         [1] = {
-            [1] = "_\231",
-            [2] = "\2503SjG\28L\21\172\232\147\168Knp\248",
-            [3] = game:GetService("Players"):WaitForChild("Ded_Insaid993")
+            [1] = "\212=",
+            [2] = "!QPn6\144E`\153\166\190c\229K\218p",
+            [3] = game:GetService("Players"):WaitForChild("shtinnikita2015")
         }
     }
 }
