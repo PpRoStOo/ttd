@@ -207,11 +207,11 @@ wait(0.07)
 local args = {
     [1] = {
         [1] = {
-            [1] = "\212=",
-            [2] = "!QPn6\144E`\153\166\190c\229K\218p",
-            [3] = game:GetService("Players"):WaitForChild("shtinnikita2015")
-        }
+            [1] = "3936374433424337414245363446453539333536333337363438463338323931",
+            [2] = game:GetService("Players"):WaitForChild("shtinnikita2015")
+        },
+        [2] = "j"
     }
 }
 
-game:GetService("ReplicatedStorage"):WaitForChild("RemoteEvent"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
