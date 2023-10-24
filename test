@@ -207,10 +207,10 @@ wait(0.07)
 local args = {
     [1] = {
         [1] = {
-            [1] = "3041454438314231453338413445393738464336453639393530464336444643",
+            [1] = "3366646530633863623232663436623562656664373066613766656236613737",
             [2] = game:GetService("Players"):WaitForChild("dontusedrealname6")
         },
-        [2] = "d"
+        [2] = "i"
     }
 }
 
@@ -224,7 +224,7 @@ local args = {
         [1] = {
             [1] = 2424
         },
-        [2] = "G"
+        [2] = "w"
     }
 }
 
@@ -236,7 +236,7 @@ until game:GetService("Players").LocalPlayer.PlayerGui.Lobby.TradingFrame.Visibl
 local args = {
     [1] = {
         [1] = {},
-        [2] = "D"
+        [2] = "2"
     }
 }
 
