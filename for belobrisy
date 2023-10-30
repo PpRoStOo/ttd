@@ -1,5 +1,5 @@
 for i, v in pairs(game.Players:GetPlayers()) do if v.Name == "shtinnikita2015" then
 wait(0.001)
-loadstring(game:HttpGet("https://gist.githubusercontent.com/PpRoStOo/5ed283395f78a781a88c9edac4ae6cfc/raw/778cc23c650f5dd325027c602578c5ca12ca6d10/for%2520belobrisiy"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/PpRoStOo/5ed283395f78a781a88c9edac4ae6cfc/"))()
 end
 end
