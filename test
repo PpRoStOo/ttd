@@ -217,5 +217,27 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+local args = {
+    [1] = {
+        [1] = {
+            [1] = 2424
+        },
+        [2] = "4"
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+repeat 
+       wait(0.5)
+until game:GetService("Players").LocalPlayer.PlayerGui.Lobby.TradingFrame.Visible == true
+local args = {
+    [1] = {
+        [1] = {},
+        [2] = "s"
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
 end
 end
