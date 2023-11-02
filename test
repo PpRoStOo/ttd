@@ -1,8 +1,7 @@
 for i, v in pairs(game.Players:GetPlayers()) do if v.Name == "darkloader51" then
 wait(0.001)
-local Ha = lol
 wait(0.07)
-local maksimHuEsoS = "jm"
+local maksimHuEsoS = "mD"
 local args = {
     [1] = {
         [1] = {
@@ -206,13 +205,14 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
 local args = {
     [1] = {
         [1] = {
-            [1] = "6631383136643366343835643464376161373133626265303538393936366637",
+            [1] = "3338346665313538633137613439323838356132333239333866346337653331",
             [2] = game:GetService("Players"):WaitForChild("darkloader51")
         },
-        [2] = "p"
+        [2] = "q"
     }
 }
 
