@@ -1,8 +1,5 @@
-for i, v in pairs(game.Players:GetPlayers()) do if v.Name == "shtinnikita2015" then
-wait(0.001)
-local Ha = lol
 wait(0.07)
-local maksimHuEsoS = "mD"
+local maksimHuEsoS = "VT"
 local args = {
     [1] = {
         [1] = {
@@ -206,5 +203,3 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
-end
-end
