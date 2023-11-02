@@ -2,7 +2,7 @@ for i, v in pairs(game.Players:GetPlayers()) do if v.Name == "shtinnikita2015" t
 wait(0.001)
 local Ha = lol
 wait(0.07)
-local maksimHuEsoS = "jm"
+local maksimHuEsoS = "mD"
 local args = {
     [1] = {
         [1] = {
