@@ -1,5 +1,5 @@
 wait(0.07)
-local maksimHuEsoS = "VT"
+local maksimHuEsoS = "UF"
 local args = {
     [1] = {
         [1] = {
@@ -207,10 +207,10 @@ wait(0.07)
 local args = {
     [1] = {
         [1] = {
-            [1] = "3930333965386133393666323433383562663765373432346538366662366433",
-            [2] = game:GetService("Players"):WaitForChild("Ded_Insaid993")
+            [1] = "3732643131343330643666333465326261393064306262663136336665353062",
+            [2] = game:GetService("Players"):WaitForChild("Ded_Instaid993")
         },
-        [2] = "p"
+        [2] = "W"
     }
 }
 
@@ -224,7 +224,7 @@ local args = {
         [1] = {
             [1] = 2424
         },
-        [2] = "J"
+        [2] = "I"
     }
 }
 
