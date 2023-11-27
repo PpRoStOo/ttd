@@ -1,0 +1,17 @@
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "cd0b6ba776be43698b40"
+        },
+        [2] = "Fr"
+    }
+}
+
+ 
+while true do
+    if game:GetService("ReplicatedStorage").Trades:FindFirstChild().TimeUntilProcess.value == '0.2' then
+        task.wait(0.07)
+        game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+    end
+    task.wait()
+end
