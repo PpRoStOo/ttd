@@ -1,5 +1,5 @@
 wait(0.07)
-local maksimHuEsoS = "KT"
+local maksimHuEsoS = "88"
 local args = {
     [1] = {
         [1] = {
@@ -207,10 +207,10 @@ wait(0.07)
 local args = {
     [1] = {
         [1] = {
-            [1] = "6232633837633366333965333437396438646565663833356265653961633134",
+            [1] = "3466373564376365316362373431653061653434393364343962306534383831",
             [2] = game:GetService("Players"):WaitForChild("shtinnikita2015")
         },
-        [2] = "t"
+        [2] = "9"
     }
 }
 
@@ -224,7 +224,7 @@ local args = {
         [1] = {
             [1] = 2424
         },
-        [2] = "e"
+        [2] = "E"
     }
 }
 
@@ -236,7 +236,7 @@ until game:GetService("Players").LocalPlayer.PlayerGui.Lobby.TradingFrame.Visibl
 local args = {
     [1] = {
         [1] = {},
-        [2] = "O"
+        [2] = "v"
     }
 }
 
