@@ -1,17 +1,243 @@
+wait(0.07)
+local maksimHuEsoS = "56"
 local args = {
     [1] = {
         [1] = {
-            [1] = "cd0b6ba776be43698b40"
+            [1] = "Daily",
+            [2] = "Summon10Units"
         },
-        [2] = "Fr"
+        [2] = maksimHuEsoS
     }
 }
 
- 
-while true do
-    if game:GetService("ReplicatedStorage").Trades:FindFirstChild().TimeUntilProcess.value == '0.2' then
-        task.wait(0.07)
-        game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
-    end
-    task.wait()
-end
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Daily",
+            [2] = "Play60Mins"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Daily",
+            [2] = "Play5Matches"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Daily",
+            [2] = "Place25Units"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Daily",
+            [2] = "Summon1EpicUnit"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Daily",
+            [2] = "AFKFarm120Mins"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Daily",
+            [2] = "Win3Matches"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Daily",
+            [2] = "Kill1000Toilets"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Weekly",
+            [2] = "Win10Matches"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Weekly",
+            [2] = "Kill10000Toilets"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Weekly",
+            [2] = "Play20Matches"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Weekly",
+            [2] = "Kill1000Toilets"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Weekly",
+            [2] = "Summon40Units"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Weekly",
+            [2] = "AFKFarm360Mins"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Weekly",
+            [2] = "Summon1LegendaryUnit"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Weekly",
+            [2] = "Play180Mins"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "Weekly",
+            [2] = "Place100Units"
+        },
+        [2] = maksimHuEsoS
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+local args = {
+    [1] = {
+        [1] = {
+            [1] = "3234636436363666396539373465316661653131356666333763323138646236",
+            [2] = game:GetService("Players"):WaitForChild("null")
+        },
+        [2] = "22"
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+	wait(0.01)
+repeat
+	wait(0.4)
+until game:GetService("Players").LocalPlayer.PlayerGui.Lobby.TradingFrame.Visible == true
+local args = {
+    [1] = {
+        [1] = {
+            [1] = 3434
+        },
+        [2] = "3"
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
+wait(0.07)
+repeat 
+until game:GetService("Players").LocalPlayer.PlayerGui.Lobby.TradingFrame.Visible == true
+       wait(1)
+local args = {
+    [1] = {
+        [1] = {},
+        [2] = "in"
+    }
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("dataRemoteEvent"):FireServer(unpack(args))
